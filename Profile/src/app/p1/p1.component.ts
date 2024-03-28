@@ -22,64 +22,64 @@ export class P1Component {
     },
     {
       id: 2,
-      name: "Galaxy S21",
-      price: 899.99,
-      rating: 4.3,
+      name: "Galaxy S23 Ultra",
+      price: 74999,
+      rating: 4.7,
       brand: "Samsung"
     },
     {
       id: 3,
-      name: "Bose QuietComfort 35 II",
-      price: 349.99,
-      rating: 4.7,
-      brand: "Bose"
+      name: "Hp Pavillion",
+      price: 54999,
+      rating: 4.5,
+      brand: "HP"
     },
     {
       id: 4,
-      name: "Sony A7 III",
-      price: 1999.99,
+      name: "Vivo V15 pro",
+      price: 29999,
       rating: 4.8,
-      brand: "Sony"
+      brand: "Vivo"
     },
     {
       id: 5,
-      name: "Toyota Camry",
-      price: 24999.99,
+      name: "Baleno",
+      price: 249999,
       rating: 4.6,
-      brand: "Toyota"
+      brand: "Maruti Suzuki"
     },
     {
       id: 6,
       name: "Nike Air Force 1",
-      price: 99.99,
-      rating: 4.9,
+      price: 999,
+      rating: 4.6,
       brand: "Nike"
     },
     {
       id: 7,
       name: "Canon EOS Rebel T7",
-      price: 499.99,
+      price: 49999,
       rating: 4.4,
       brand: "Canon"
     },
     {
       id: 8,
       name: "LG OLED C1",
-      price: 1799.99,
+      price: 19999,
       rating: 4.8,
       brand: "LG"
     },
     {
       id: 9,
-      name: "Fitbit Versa 3",
-      price: 229.99,
-      rating: 4.2,
-      brand: "Fitbit"
+      name: "Pixel 6a",
+      price: 69999,
+      rating: 4.8,
+      brand: "Pixel"
     },
     {
       id: 10,
       name: "Dell XPS 13",
-      price: 1199.99,
+      price: 35999,
       rating: 4.7,
       brand: "Dell"
     }
